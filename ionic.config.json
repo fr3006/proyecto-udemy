@@ -1,0 +1,8 @@
+{
+  "name": "proyecto-udemy",
+  "app_id": "73363877",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
